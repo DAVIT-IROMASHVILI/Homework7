@@ -111,7 +111,6 @@ footer {
     padding: 32px 80px;
     display: flex;
     justify-content: space-between;
-
 }
 
 .footer_nav_ul_li {
@@ -120,9 +119,6 @@ footer {
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
-}
-
-.footer_second_nav{    
 }
 
 .footer_second_nav_ul{
