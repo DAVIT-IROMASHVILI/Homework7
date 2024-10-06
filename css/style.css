@@ -45,12 +45,11 @@ header {
 .section_first {
     margin: auto;
     padding-top: 136px;
-    /* position: relative; */
 }
 
 .section_first_cover {
     width: 100%;
-    /* position: absolute; */
+
 }
 
 .section_first_article {
