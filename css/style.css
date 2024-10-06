@@ -34,11 +34,20 @@ header {
     font-size: 24px;
     font-weight: 400;
     line-height: 32px;
+    
+}
+
+.header_nav_ul_li:hover{
+    color: #ED6C30;
 }
 
 .fa-bag-shopping {
     font-size: 40px;
     color: #FCC21B;
+}
+
+.fa-bag-shopping:hover{
+    color: #ED6C30;
 }
 
 /* Section  */
@@ -131,4 +140,12 @@ footer {
 .social_icons{
     font-size: 32px;
     color: #FCC21B  ;
+}
+
+.social_icons:hover{
+    color: #ED6C30;
+}
+
+.footer_nav_ul_li:hover{
+    color: #ED6C30;
 }
